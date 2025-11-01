@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/_Lv_Test.umap",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Gamemode/BP_FirstPersonCharacter_Child.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Gamemode/BP_DemoGamemode.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Mesh/Ch11_nonPBR_PhysicsAsset.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Mesh/Ch11_1001_Diffuse.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Mesh/Ch11_1001_Glossiness.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Mesh/Ch11_1001_Normal.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Mesh/Ch11_1001_Specular.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Mesh/Ch11_1002_Diffuse.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Mesh/Ch11_1002_Glossiness.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Mesh/Ch11_1002_Specular.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Mesh/Ch11_nonPBR_Skeleton.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Mesh/Ch11_1002_Normal.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Mesh/Ch11_body.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Mesh/Ch11_body1.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Mesh/Ch11_nonPBR.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Mesh/Ch11_nonPBR_Anim.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Anim/Standing_Idle.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Anim/Walking.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Anim/Running.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/BP_Cleaner.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/BS_Cleaner.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/BP_CleanerAnim.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Gamemode/BP_CleanerController.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Anim/Heavy_Weapon_Swing.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/Anim/2hand_Idle.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/BP_FirstPersonCharacter_Child.uasset",
+				"D:/_2025-2 RAII/_CCD_demo/CCD_demo/Content/_CCD/Character/BP_CleanerController.uasset"
+			]
+		}
+	]
+}
