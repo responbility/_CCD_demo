@@ -1,0 +1,15 @@
+<CCD Demo>
+
+
+- 진행률 
+모든 Cleanable 액터들은 [Cleanable Component] 및 [BPI_Cleanable]을 갖는다. 
+컴포넌트에는 Progress Point (PP)가 있다.
+진행률을 관리하는 [Progress Manager]는 게임 시작시 모든 액터들을 순회하여 Total Progress Point를 초기화한다.
+만약 Cleanable 액터가 파괴되면 해당 액터가 소유중인 PP가 이벤트로 전달되며, Current Progress Point에 저장된다.
+두 변수 TPP, CPP로 진행률을 계산한다.
+
+- 쓰레기봉투
+핏자국을 제외한 모든 Cleanable 액터들은 쓰레기 봉투에 담길 수 있다.
+쓰레기 봉투가 액터를 흡수하면 해당 액터의 PP가 더해지고,
+쓰레기 봉투를 소각시 Progress Manager로 모든 PP를 전달한다.
+
